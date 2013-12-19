@@ -1,3 +1,11 @@
+/*
+ *    Copyright (C) by Milan Kazarka
+ *
+ *    You may distribute under the terms of the Artistic License,
+ *    as specified in the Artistic.txt file
+ *
+ */
+
 #ifndef _WIDGET_H_
 #define _WIDGET_H_
 
